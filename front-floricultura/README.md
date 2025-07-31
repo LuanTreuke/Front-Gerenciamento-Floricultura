@@ -1,4 +1,4 @@
-# Floricultura - Trabalho Final Web III
+# Front-Gerenciamento-Floricultura
 
 ## Descrição
 
