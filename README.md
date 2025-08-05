@@ -5,6 +5,8 @@
 Este projeto é um sistema completo para gestão de uma floricultura, desenvolvido como trabalho final da disciplina Web III.  
 Inclui **front-end** (Next.js + React) e **back-end** (NestJS + Prisma), com funcionalidades de cadastro, edição, exclusão e listagem de produtos, pedidos e endereços.
 
+Back-end: https://github.com/LuanTreuke/API-Floricultura-web-III
+
 ---
 
 ## Autor
